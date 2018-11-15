@@ -1,3 +1,14 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DataHelper.cs](./CS/AspDashboard_SalesDetails/App_Code/DataHelper.cs) (VB: [DataHelper.vb](./VB/AspDashboard_SalesDetails/App_Code/DataHelper.vb))
+* [SalesDataGenerator.cs](./CS/AspDashboard_SalesDetails/App_Code/SalesDataGenerator.cs) (VB: [SalesDataGenerator.vb](./VB/AspDashboard_SalesDetails/App_Code/SalesDataGenerator.vb))
+* [SalesDetails.cs](./CS/AspDashboard_SalesDetails/App_Code/SalesDetails.cs) (VB: [SalesDetails.vb](./VB/AspDashboard_SalesDetails/App_Code/SalesDetails.vb))
+* [Default.aspx](./CS/AspDashboard_SalesDetails/Default.aspx) (VB: [Default.aspx.vb](./VB/AspDashboard_SalesDetails/Default.aspx.vb))
+* [Default.aspx.cs](./CS/AspDashboard_SalesDetails/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/AspDashboard_SalesDetails/Default.aspx.vb))
+* [SalesDetailsData.js](./CS/AspDashboard_SalesDetails/Scripts/SalesDetailsData.js) (VB: [SalesDetailsData.js](./VB/AspDashboard_SalesDetails/Scripts/SalesDetailsData.js))
+* [SalesDetailsPopup.js](./CS/AspDashboard_SalesDetails/Scripts/SalesDetailsPopup.js) (VB: [SalesDetailsPopup.js](./VB/AspDashboard_SalesDetails/Scripts/SalesDetailsPopup.js))
+<!-- default file list end -->
 # ASPxDashboard - How to show a dashboard item's data for a clicked visual element
 
 
